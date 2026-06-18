@@ -22,7 +22,6 @@ jobs:
 
     - name: Build, Test, Package, and Run App
       run: mvn -B clean verify
-      working-directory: simple_ci_project
       
     - name: Upload JAR artifact
       uses: actions/upload-artifact@v4
