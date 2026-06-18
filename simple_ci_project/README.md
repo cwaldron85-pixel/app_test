@@ -1,5 +1,7 @@
 # Simple Maven CI Demo
 
+# Auto merge removed
+
 This is a minimal Java + Maven project designed to demonstrate a free CI pipeline using GitHub Actions.
 
 ## Features
